@@ -1,0 +1,33 @@
+.btn-container{
+    width: 400px;
+    background-color: cadetblue;
+}
+
+.btn-group{
+    display: flex;
+}
+
+.btn{
+    width: 100px;
+    height: 40px;
+    border: none;
+    font-size: 15px;
+    font-weight: 600;
+    transition: 0.5s;
+}
+
+.btn-calculate{
+    width: 300px;
+    background-color: orangered;
+    border: none;
+}
+
+.btn-name{
+    background-color: #525151;
+    color: white;
+}
+
+.btn:hover{
+    background-color: #bdbaba;
+    color: white;
+}
